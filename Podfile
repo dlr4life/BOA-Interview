@@ -9,6 +9,4 @@ target 'BOA Interview' do
 
   # Pods for BOA Interview
 
-pod 'Charts'
-
 end
