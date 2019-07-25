@@ -2,9 +2,9 @@
 Bank of America (Merill Lynch) App (For interview purposes only.)
 
 <div align="center">
-    <img src="https://github.com/dlr4life/BOA-Interview/blob/master/BOA%20Interview/Assets.xcassets/1-URLSession.imageset/1-URLSession.png" width="400px"</img> 
-    <img src="https://github.com/dlr4life/BOA-Interview/blob/master/BOA%20Interview/Assets.xcassets/2-Decodable.imageset/2-Decodable.png" width="400px"</img>
-    <img src="https://github.com/dlr4life/BOA-Interview/blob/master/BOA%20Interview/Assets.xcassets/3-Programmatic%20UI.imageset/3-Programmatic%20UI.png" width="400px"</img> 
+    <img src="https://github.com/dlr4life/BOA-Interview/blob/master/BOA%20Interview/Assets.xcassets/1-URLSession.imageset/1-URLSession.png" width="300px"</img> 
+    <img src="https://github.com/dlr4life/BOA-Interview/blob/master/BOA%20Interview/Assets.xcassets/2-Decodable.imageset/2-Decodable.png" width="300px"</img>
+    <img src="https://github.com/dlr4life/BOA-Interview/blob/master/BOA%20Interview/Assets.xcassets/3-Programmatic%20UI.imageset/3-Programmatic%20UI.png" width="300px"</img> 
 </div>
 
 This app is to meant to display my development skills for interview purposes. I will be tying a table view to an REST API call returning an array of items. I will need to make a GET API call, parse the returned JSON data (with URLSession), and set up a table view to display it. Since some/most API's return paginated data I will also implement loading the next page of results as the user scrolls downward.
